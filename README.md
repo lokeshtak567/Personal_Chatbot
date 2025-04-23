@@ -14,8 +14,8 @@ Friday is a Python-based virtual assistant with voice interaction capabilities, 
 
 ## Installation 🛠️
 
-git clone https://github.com/yourusername/friday-ai-assistant.git
-cd friday-ai-assistant
+git clone https://github.com/lokeshtak567/Personal_Chatbot.git
+
 pip install -r requirements.txt
 
 
